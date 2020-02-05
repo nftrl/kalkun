@@ -1,0 +1,2 @@
+# kalkun
+kakoune nix pkg
